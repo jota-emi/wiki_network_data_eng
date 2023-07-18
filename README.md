@@ -37,5 +37,5 @@ Feel free to customize the network visualization based on your specific needs. M
 
 ## Explanation Video
 
-For a detailed walkthrough of the Network Visualization with Gephi and GitHub Pages project, you can watch the explanation video [here](https://www.example.com).
+For a detailed walkthrough of the Network Visualization with Gephi and GitHub Pages project, you can watch the explanation video [here](https://youtu.be/YwdwpiHObPQ).
 
